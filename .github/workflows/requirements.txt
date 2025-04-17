@@ -1,0 +1,4 @@
+qiskit==1.0.2
+textblob==0.17.1
+web3==6.10.0
+flake8==7.0.0
