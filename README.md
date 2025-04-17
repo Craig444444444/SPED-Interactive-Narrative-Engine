@@ -11,5 +11,10 @@ SPED is an interactive literary engine that creates dynamic narratives based on 
 ## Usage:
 This project is intended for non-commercial educational use only.
 
-## License:
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the LICENSE file for details.
+## Author & Rights
+
+Created by **Craig Huckerby**  
+Email: craighckby@gmail.com
+
+All content is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+**Commercial rights are reserved by the author.**
