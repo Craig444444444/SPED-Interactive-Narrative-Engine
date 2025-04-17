@@ -1,0 +1,19 @@
+{
+  "1": {
+    "text": "The air buzzes with unseen possibilities.",
+    "variations": {
+      "happy": {
+        "branch1": "A bright path opens up before you.",
+        "branch2": "You leap into the unknown with joy."
+      },
+      "sad": {
+        "branch1": "You walk quietly into the mist.",
+        "branch2": "You pause, letting a tear fall."
+      }
+    },
+    "next": {
+      "branch1": "2",
+      "branch2": "3"
+    }
+  }
+}
